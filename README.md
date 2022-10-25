@@ -1,11 +1,11 @@
 # The Odin Project
 Exercises from [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)'s Ruby on Rails curriculum
 
-### Basic - 75%
+### Basic - 100%
 - [x] Caesar Cipher
 - [x] Sub Strings
 - [x] Stock Picker
-- [ ] Bubble Sort
+- [x] Bubble Sort
 
 ### Object Oriented Programming Basics - 0%
 - [ ] Tic Tac Toe
