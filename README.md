@@ -7,8 +7,8 @@ Exercises from [The Odin Project](https://www.theodinproject.com/paths/full-stac
 - [x] Stock Picker
 - [x] Bubble Sort
 
-### Object Oriented Programming Basics - 0%
-- [ ] Tic Tac Toe
+### Object Oriented Programming Basics - 50%
+- [x] Tic Tac Toe
 - [ ] Masterminds
 
 ### Files and Serialization - 0%
