@@ -1,3 +1,3 @@
-require_relative 'game'
+require_relative 'game2'
 
-  Game::run
+  Game2::run
