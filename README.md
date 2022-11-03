@@ -7,13 +7,13 @@ Exercises from [The Odin Project](https://www.theodinproject.com/paths/full-stac
 - [x] Stock Picker
 - [x] Bubble Sort
 
-### Object Oriented Programming Basics - 50%
+### Object Oriented Programming Basics - 100%
 - [x] Tic Tac Toe
-- [ ] Masterminds
+- [x] Masterminds
 
-### Files and Serialization - 0%
-- [ ] Event Manager
-- [ ] Hangman
+### Files and Serialization - 100%
+- [x] Event Manager
+- [x] Hangman
 
 ### Advanced - 0%
 - [ ] Custom Enumerables
